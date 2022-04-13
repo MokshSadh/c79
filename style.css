@@ -1,0 +1,12 @@
+input{
+    margin: 10px;
+}
+#submit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#sort{
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
